@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Blockchain+Developer;Web3+API;TradingBot+Custom+Script(5+Stars);Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Blockchain+Developer;Web3+API;TradingBot+Custom+Script;Always+learning+new+things"></a>
+![image](https://github.com/user-attachments/assets/ee4495e5-c002-4d42-a5cb-5e3217112ba2)
 </p>
 
 <!--horizontal divider(gradiant)-->
