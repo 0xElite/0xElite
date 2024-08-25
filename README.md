@@ -1,4 +1,6 @@
-<h1 align="center">Full Stack & Blockchain Developer</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=0xEliteDev..&hearts;++;Self-taught+Full Stack+ Blockchain,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
