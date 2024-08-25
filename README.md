@@ -1,5 +1,3 @@
-###
-
 <h1 align="center">Full Stack & Blockchain Developer</h1>
 
 <!--horizontal divider(gradiant)-->
@@ -8,7 +6,6 @@
 
 <h2 align="center">Popular Software Tools & Programming Languages</h2>
 
-###
 
 <br clear="both" />
 
